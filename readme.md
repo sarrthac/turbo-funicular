@@ -6,7 +6,7 @@ This **Trading Simulator** uses the **Alpaca API** to execute simulated stock tr
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/sarrthac/turbo-funicular.git
 cd TradingSimulator
 ```
 
